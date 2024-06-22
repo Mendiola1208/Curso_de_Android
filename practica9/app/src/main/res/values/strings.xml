@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Inventario de MENDIOLA</string>
+    <string name="attention">Atención</string>
+    <string name="back_button">Atrás</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_question">¿Estás seguro de que quieres eliminar?</string>
+    <string name="no_item_description">¡Ups!\nNo hay elementos en el inventario.\nToca + para agregar.</string>
+    <string name="edit_item_title">Editar Elemento</string>
+    <string name="item">Elemento</string>
+    <string name="item_detail_title">Detalles del Elemento</string>
+    <string name="item_entry_title">Agregar Elemento</string>
+    <string name="item_name_req">Nombre del Elemento*</string>
+    <string name="item_price_req">Precio del Elemento*</string>
+    <string name="no">No</string>
+    <string name="price">Precio</string>
+    <string name="quantity_in_stock">Cantidad en stock</string>
+    <string name="in_stock">%d en stock</string>
+    <string name="quantity_req">Cantidad en Stock*</string>
+    <string name="save_action">Guardar</string>
+    <string name="sell">Vender</string>
+    <string name="yes">Sí</string>
+    <string name="required_fields">*campos requeridos</string>
+</resources>
